@@ -5,7 +5,7 @@ The goal of this exercise is to see if you can use some logic to
 solve some of these yung-problmes
 
 
-### Problem 1
+## Problem 1
 
 I want you to create a function called `arrayRange` that takes a starting range and a length. So when I call the function like this `arrayRange(1,5)` it returns `[1, 2, 3, 4, 5]`
 
